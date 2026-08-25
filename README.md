@@ -3,6 +3,9 @@ Number Guessing Game Description:
 
 How to Play:
 1. Run the Python program.
+   1. Open the repository using GitHub's 'Codespaces'
+   2. Run the program using the command:
+       'python NumberGuessingGame.py' 
 2. The computer will randomly choose a number between 1 and 10.
 3. You have 3 chances to guess the number.
 4. After each guess, you'll get a hint.
